@@ -10,3 +10,6 @@ C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Control
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\ResolveAssemblyReference.cache
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.dll
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Models.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Models.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Models.xml
