@@ -4,3 +4,9 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMV
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Controllers\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.dll
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Controllers.XML
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Controllers.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\bin\Debug\FSharpMVC2.Controllers.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Controllers\obj\Debug\FSharpMVC2.Controllers.pdb

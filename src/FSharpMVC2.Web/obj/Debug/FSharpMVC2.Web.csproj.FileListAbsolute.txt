@@ -3,3 +3,8 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMV
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.dll
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.pdb
