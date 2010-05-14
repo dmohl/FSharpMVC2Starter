@@ -70,10 +70,3 @@ type RegisterModel() =
     [<DisplayName("Confirm password")>]
     member x.ConfirmPassword with get() = confirmPassword and set(value) = confirmPassword <- value
 
-type IMembershipService = interface
-    abstract MinPasswordLength : int with get
-    abstract ValidateUser : string*string -> bool
-    abstract CreateUser : string*string*string -> MembershipCreateStatus
-    abstract ChangePassword : string*string*string -> bool
-end    
-
