@@ -14,3 +14,9 @@ C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.pdb
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
 C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml

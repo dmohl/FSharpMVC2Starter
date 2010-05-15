@@ -1,7 +1,5 @@
 ﻿namespace FSharpMVC2.Web.Controllers
 
-open System
-open System.Collections.Generic
 open System.Web
 open System.Web.Mvc
 
