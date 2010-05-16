@@ -65,9 +65,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -118,6 +115,10 @@
     <ProjectReference Include="..\FSharpMVC2.Controllers\FSharpMVC2.Controllers.fsproj">
       <Project>{1D53FAA1-798D-4560-AA93-49679CC58B3B}</Project>
       <Name>FSharpMVC2.Controllers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FSharpMVC2.Core\FSharpMVC2.Core.fsproj">
+      <Project>{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}</Project>
+      <Name>FSharpMVC2.Core</Name>
     </ProjectReference>
     <ProjectReference Include="..\FSharpMVC2.Models\FSharpMVC2.Models.fsproj">
       <Project>{6173C6DC-1435-4A83-A5FE-51DC7E0798AC}</Project>

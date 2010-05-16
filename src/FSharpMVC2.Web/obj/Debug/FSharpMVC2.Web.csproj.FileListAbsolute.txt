@@ -20,3 +20,6 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMV
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.xml

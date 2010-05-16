@@ -9,6 +9,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpMVC2.Controllers", "s
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpMVC2.Controllers.Tests", "test\FSharpMVC2.Controllers.Tests\FSharpMVC2.Controllers.Tests.fsproj", "{E57AD2A7-5061-475B-A916-5F5C15C05006}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpMVC2.Core", "src\FSharpMVC2.Core\FSharpMVC2.Core.fsproj", "{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{E57AD2A7-5061-475B-A916-5F5C15C05006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E57AD2A7-5061-475B-A916-5F5C15C05006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E57AD2A7-5061-475B-A916-5F5C15C05006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60E704B-7D74-41FF-98B5-E0EC68FC6D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
