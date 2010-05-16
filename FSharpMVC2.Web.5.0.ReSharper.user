@@ -9,12 +9,13 @@
   <RecentFiles>
     <RecentFiles>
       <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Web.config" caret="572" fromTop="8" />
-      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:Authentication.fs" caret="31" fromTop="0" />
       <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="4045" fromTop="11" />
       <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:AccountModels.fs" caret="602" fromTop="7" />
       <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:HomeController.fs" caret="292" fromTop="2" />
       <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="869" fromTop="11" />
-      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="117" fromTop="0" />
+      <File id="D60E704B-7D74-41FF-98B5-E0EC68FC6D22/f:Global.fs" caret="105" fromTop="0" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="36" fromTop="0" />
+      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:Authentication.fs" caret="1093" fromTop="4" />
     </RecentFiles>
     <RecentEdits>
       <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Web.config" caret="392" fromTop="6" />
@@ -41,7 +42,8 @@
       <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="852" fromTop="4" />
       <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="1084" fromTop="8" />
       <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="597" fromTop="8" />
-      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="47" fromTop="0" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="270" fromTop="7" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="36" fromTop="0" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

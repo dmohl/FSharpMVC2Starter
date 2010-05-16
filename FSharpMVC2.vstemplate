@@ -11,19 +11,15 @@
             <ProjectTemplateLink ProjectName="FSharpMVC2.Controllers">
                 src\FSharpMVC2.Controllers\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpMVC2.Controllers.Tests">
-                test\FSharpMVC2.Controllers.Tests\MyTemplate.vstemplate
-            </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="FSharpMVC2.Models">
                 src\FSharpMVC2.Models\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpMVC2.Core">
+                src\FSharpMVC2.Core\MyTemplate.vstemplate
             </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="FSharpMVC2.Web">
                 src\FSharpMVC2.Web\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <Folder Name="lib" TargetFolderName="lib">
-                <ProjectItem ReplaceParameters="true" TargetFileName="nunit.framework.dll">nunit.framework.dll</ProjectItem>
-                <ProjectItem ReplaceParameters="true" TargetFileName="SpecUnit.dll">SpecUnit.dll</ProjectItem>
-	    </Folder>
         </ProjectCollection>
     </TemplateContent>
 </VSTemplate>
