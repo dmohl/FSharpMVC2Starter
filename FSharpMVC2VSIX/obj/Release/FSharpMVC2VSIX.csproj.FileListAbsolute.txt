@@ -1,0 +1,7 @@
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\FSharpMVC2WebApplication.vsix
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.dll
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.pdb
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\ProjectTemplates\FSharpMVC2Template.zip

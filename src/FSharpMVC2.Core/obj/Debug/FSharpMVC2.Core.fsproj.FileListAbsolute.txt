@@ -10,3 +10,9 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMV
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.dll
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.XML
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.pdb
