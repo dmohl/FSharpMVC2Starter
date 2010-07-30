@@ -8,17 +8,17 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="FSharpMVC2.Controllers">
-                src\FSharpMVC2.Controllers\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Controllers">
+                src\Controllers\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpMVC2.Models">
-                src\FSharpMVC2.Models\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Models">
+                src\Models\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpMVC2.Core">
-                src\FSharpMVC2.Core\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Core">
+                src\Core\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpMVC2.Web">
-                src\FSharpMVC2.Web\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Web">
+                src\Web\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>
