@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
   <Identifier Id="FSharpMVC2VSIX.Microsoft.66348ad1-3daa-4bbc-9e18-8a4f8d4c5078">
-    <Name>FSharpMVC2WebApplication</Name>
+    <Name>F# MVC2 Web Application</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.0</Version>
+    <Version>1.1</Version>
     <Description xml:space="preserve">Allows the creation of an F# MVC 2 Web Application.</Description>
     <Locale>1033</Locale>
     <SupportedProducts>

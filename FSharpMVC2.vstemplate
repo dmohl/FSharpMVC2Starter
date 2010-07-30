@@ -8,17 +8,17 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
+            <ProjectTemplateLink ProjectName="Web">
+                src\Web\MyTemplate.vstemplate
+            </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="Controllers">
                 src\Controllers\MyTemplate.vstemplate
-            </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="Models">
-                src\Models\MyTemplate.vstemplate
             </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="Core">
                 src\Core\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="Web">
-                src\Web\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Models">
+                src\Models\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>
