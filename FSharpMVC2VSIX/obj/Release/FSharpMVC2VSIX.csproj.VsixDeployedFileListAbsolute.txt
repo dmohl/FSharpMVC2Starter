@@ -1,18 +1,4 @@
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\\extension.vsixmanifest
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Models.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Controllers.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Core.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Web.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2Template.zip
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\\extension.vsixmanifest
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2Template.zip
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.zip
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.1\\extension.vsixmanifest
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.1\ProjectTemplates\\FSharpMVC2.zip
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# MVC2 Web Application\1.1\\extension.vsixmanifest
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# MVC2 Web Application\1.1\ProjectTemplates\\FSharpMVC2.zip
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\extension.vsixmanifest
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\ProjectTemplates\Web\\FSharpMVC2.zip
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\FSharpMVCScreenShot.png
-C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\MicrosoftLicenseTerms.txt
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\ProjectTemplates\ASPNET\\FSharpMVC2.zip

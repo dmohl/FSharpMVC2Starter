@@ -1,5 +1,0 @@
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\\extension.vsixmanifest
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Web.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Models.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Controllers.zip
-C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpMVC2WebApplication\1.0\ProjectTemplates\\FSharpMVC2.Core.zip
