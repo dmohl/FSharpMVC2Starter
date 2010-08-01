@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <doc>
-<assembly><name>Controllers</name></assembly>
+<assembly><name>FSharpMVC2.Controllers.Tests</name></assembly>
 <members>
 <member name="">
 
@@ -41,19 +41,7 @@
 <member name="">
 
 </member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="T:FSharpMVC2.Web.Controllers.AccountControllerModule">
+<member name="T:HomeControllerTests">
 
 </member>
 </members>

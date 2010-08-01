@@ -13,3 +13,4 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VS
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\obj\Release\extension.vsixmanifest
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\bin\Release\ProjectTemplates\Web\FSharpMVC2.zip
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\bin\Release\FSharpMVCScreenShot.png
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\bin\Release\MicrosoftLicenseTerms.txt
