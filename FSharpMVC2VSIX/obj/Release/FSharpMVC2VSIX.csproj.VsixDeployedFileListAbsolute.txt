@@ -15,3 +15,4 @@ C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mo
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\ProjectTemplates\Web\\FSharpMVC2.zip
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\FSharpMVCScreenShot.png
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\MicrosoftLicenseTerms.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# ASP.NET MVC 2 Web Application\1.2\\MicrosoftPublicLicense.txt

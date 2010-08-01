@@ -7,7 +7,7 @@
     <Description xml:space="preserve">A F# ASP.NET MVC 2 Web Application.</Description>
     <Locale>1033</Locale>
     <MoreInfoUrl>http://bloggemdano.blogspot.com/2010/05/f-and-standard-aspnet-mvc-2-web.html</MoreInfoUrl>
-    <License>MicrosoftLicenseTerms.txt</License>
+    <License>MicrosoftPublicLicense.txt</License>
     <PreviewImage>FSharpMVCScreenShot.png</PreviewImage>
     <SupportedProducts>
       <VisualStudio Version="10.0">
