@@ -1,8 +1,8 @@
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
     <TemplateData>
-        <Name>F# ASP.NET MVC 2 Web Application</Name>
-        <Description>F# ASP.NET MVC 2 Web Application</Description>
+        <Name>F# and C# Web Application (ASP.NET, MVC 2)</Name>
+        <Description>F# and C# Web Application (ASP.NET, MVC 2)</Description>
         <Icon>__TemplateIcon.ico</Icon>
         <ProjectType>FSharp</ProjectType>
 		<ProjectSubType>ASPNET</ProjectSubType>
