@@ -16,6 +16,5 @@ C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\ResolveAssemblyReference.cac
 C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.dll
 C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.pdb
 C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\extension.vsixmanifest
-C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.dll
-C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.pdb
-C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.xml
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\FSharpMVC2TemplateWizard.dll
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\FSharpMVC2TemplateWizard.pdb

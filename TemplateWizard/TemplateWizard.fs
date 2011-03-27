@@ -1,4 +1,4 @@
-﻿namespace TemplateWizard
+﻿namespace FSharpMVC2TemplateWizard
 
 open System
 open System.Collections.Generic
