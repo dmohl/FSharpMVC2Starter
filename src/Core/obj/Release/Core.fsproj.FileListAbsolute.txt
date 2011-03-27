@@ -1,6 +1,6 @@
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\bin\Release\Core.XML
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\bin\Release\Core.dll
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\bin\Release\Core.pdb
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\obj\Release\ResolveAssemblyReference.cache
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\obj\Release\Core.dll
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Core\obj\Release\Core.pdb
+C:\git\FSharpMVC2Starter\src\Core\bin\Release\Core.XML
+C:\git\FSharpMVC2Starter\src\Core\bin\Release\Core.dll
+C:\git\FSharpMVC2Starter\src\Core\bin\Release\Core.pdb
+C:\git\FSharpMVC2Starter\src\Core\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\Core\obj\Release\Core.dll
+C:\git\FSharpMVC2Starter\src\Core\obj\Release\Core.pdb

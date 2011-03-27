@@ -1,9 +1,9 @@
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Controllers.XML
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Controllers.dll
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Controllers.pdb
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Models.dll
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Models.pdb
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\bin\Release\Models.xml
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\obj\Release\ResolveAssemblyReference.cache
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\obj\Release\Controllers.dll
-C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\Controllers\obj\Release\Controllers.pdb
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Controllers.XML
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Controllers.dll
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Controllers.pdb
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Models.dll
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Models.pdb
+C:\git\FSharpMVC2Starter\src\Controllers\bin\Release\Models.xml
+C:\git\FSharpMVC2Starter\src\Controllers\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\Controllers\obj\Release\Controllers.dll
+C:\git\FSharpMVC2Starter\src\Controllers\obj\Release\Controllers.pdb

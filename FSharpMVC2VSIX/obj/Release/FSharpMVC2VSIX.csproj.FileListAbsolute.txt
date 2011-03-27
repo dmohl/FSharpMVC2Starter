@@ -7,3 +7,15 @@ C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VS
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.dll
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.pdb
 C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\FSharpMVCScreenShot.png
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\ProjectTemplates\ASPNET\FSharpMVC2.zip
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\FSharpMVC2WebApplication.vsix
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.dll
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\FSharpMVC2WebApplication.pdb
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.dll
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.pdb
+C:\git\FSharpMVC2Starter\FSharpMVC2VSIX\bin\Release\TemplateWizard.xml
